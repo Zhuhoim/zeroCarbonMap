@@ -26,22 +26,24 @@
 #### 产权发布页-地图选点
 ![产权发布页-地图选点](https://github.com/Zhuhoim/zeroCarbonMap/blob/master/screen_picture/select_location.png)
 
-### Project setup
+更多图片请看screen_picture/
+
+### 安装包 Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 编译运行（开发者模式） Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 编译压缩 Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 检查修复 Lints and fixes files
 ```
 npm run lint
 ```
