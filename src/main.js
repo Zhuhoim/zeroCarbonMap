@@ -10,7 +10,7 @@ import VueCropper from 'vue-cropper'
 Vue.config.productionTip = false
 // 配置高德地图安全密钥
 window._AMapSecurityConfig = {
-	securityJsCode: '84505d4c5ac3b6b17063dc7bd34dcc04' //*  安全密钥
+	securityJsCode: '84809d4c5a81b6****63dc89d34dcc04' //*  安全密钥
 }
 
 Vue.use(Select)
