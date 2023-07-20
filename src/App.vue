@@ -33,19 +33,6 @@
       if (this.$router.currentRoute.path == '/') {
         this.$router.push('/home');
       }
-      const redis = require('redis');
-      const client = redis.createClient({
-          socket: {
-              host: 'http://139.159.216.46/',
-              port: 9502
-          },
-          password: 'CZSCczsc123321.!'
-      });
-
-      client.on('error', err => {
-          console.log('Error ' + err);
-      });
-
     },
     beforeDestroy() {
     }
