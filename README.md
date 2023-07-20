@@ -5,7 +5,7 @@
 
 ## 截图展示
 主页
-![主页](https://raw.githubusercontent.com/Zhuhoim/zeroCarbonMap/blob/master/screen_picture/home.png)
+![主页](https://github.com/Zhuhoim/zeroCarbonMap/blob/master/screen_picture/home.png)
 
 ## Project setup
 ```
